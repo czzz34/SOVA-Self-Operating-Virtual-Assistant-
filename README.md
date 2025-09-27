@@ -1,3 +1,5 @@
+
+
 ---
 
 # ![SOVA Logo](https://img.icons8.com/fluency/48/000000/robot-2.png) SOVA - Self Operating Voice Assistant
@@ -23,7 +25,7 @@
 1. **Clone the repository:**
 
 ```bash
-git clone [https://github.com/yourusername/SOVA.git](https://github.com/czzz34/SOVA-Self-Operating-Virtual-Assistant-)
+git clone https://github.com/czzz34/SOVA-Self-Operating-Virtual-Assistant-.git
 cd SOVA
 ```
 
@@ -80,17 +82,7 @@ SOVA/
 * You can switch the AI model in Ollama; `Gemma2:9b` is only a recommendation.
 * Functions like music playback require an internet connection.
 
----
 
-## 💡 Contribution
-
-Contributions are welcome! You can:
-
-* Add new modules in `modules/`
-* Improve the GUI in `ui/`
-* Optimize model performance or add new functionalities
-
----
 
 ## 📄 License
 
