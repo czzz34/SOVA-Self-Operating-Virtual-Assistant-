@@ -1,5 +1,3 @@
-Absolutely! Let’s make your README **more polished, GitHub-friendly, and easier to read**. I’ll add headings, formatting, badges, and a professional flow. Here’s the improved version:
-
 ---
 
 # ![SOVA Logo](https://img.icons8.com/fluency/48/000000/robot-2.png) SOVA - Self Operating Voice Assistant
@@ -25,7 +23,7 @@ Absolutely! Let’s make your README **more polished, GitHub-friendly, and easie
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/SOVA.git
+git clone [https://github.com/yourusername/SOVA.git](https://github.com/czzz34/SOVA-Self-Operating-Virtual-Assistant-)
 cd SOVA
 ```
 
