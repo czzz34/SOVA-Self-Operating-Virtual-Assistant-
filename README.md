@@ -1,4 +1,4 @@
-SOVA - Self Operating Voice Assistant
+#SOVA - Self Operating Voice Assistant
 
 SOVA is an offline AI voice assistant that runs locally using Ollama. You can use any LLM model you prefer, though Gemma2:9b is recommended for generating high-quality text outputs.
 
