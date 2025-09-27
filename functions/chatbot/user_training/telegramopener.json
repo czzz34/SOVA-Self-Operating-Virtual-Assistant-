@@ -1,0 +1,215 @@
+[
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 1.3128979206085205
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 1.4245307445526123
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "t"
+        ],
+        "time": 2.412543773651123
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "t"
+        ],
+        "time": 2.534543752670288
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "e"
+        ],
+        "time": 3.180065870285034
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "e"
+        ],
+        "time": 3.298769474029541
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "l"
+        ],
+        "time": 3.9908664226531982
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "l"
+        ],
+        "time": 4.118865728378296
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "e"
+        ],
+        "time": 4.768061637878418
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "e"
+        ],
+        "time": 4.905030965805054
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "g"
+        ],
+        "time": 5.55073881149292
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "g"
+        ],
+        "time": 5.653813362121582
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "r"
+        ],
+        "time": 6.30001425743103
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "r"
+        ],
+        "time": 6.409014463424683
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "a"
+        ],
+        "time": 6.9405059814453125
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "a"
+        ],
+        "time": 7.075445890426636
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "m"
+        ],
+        "time": 7.541690111160278
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "m"
+        ],
+        "time": 7.651691913604736
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 10.619244575500488
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 10.7346670627594
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            401,
+            280
+        ],
+        "time": 16.775370597839355
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            406,
+            280
+        ],
+        "time": 16.78268814086914
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            407,
+            280
+        ],
+        "time": 16.790574550628662
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            409,
+            280
+        ],
+        "time": 16.79919457435608
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            410,
+            280
+        ],
+        "time": 16.807212114334106
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.esc"
+        ],
+        "time": 19.075156927108765
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 1.4750463962554932
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 1.592583417892456
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "v"
+        ],
+        "time": 2.6377341747283936
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "v"
+        ],
+        "time": 2.755972146987915
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "s"
+        ],
+        "time": 3.191060781478882
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "s"
+        ],
+        "time": 3.3223798274993896
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "c"
+        ],
+        "time": 4.093188524246216
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "c"
+        ],
+        "time": 4.213512420654297
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "o"
+        ],
+        "time": 4.423529386520386
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "o"
+        ],
+        "time": 4.537537574768066
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 6.110405206680298
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 6.21440577507019
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.esc"
+        ],
+        "time": 9.629274368286133
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 0.728435754776001
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 0.8804941177368164
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "m"
+        ],
+        "time": 1.0484585762023926
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "m"
+        ],
+        "time": 1.1686551570892334
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "a"
+        ],
+        "time": 1.7686879634857178
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "a"
+        ],
+        "time": 1.9125916957855225
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "i"
+        ],
+        "time": 1.9131813049316406
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "i"
+        ],
+        "time": 2.040644884109497
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "l"
+        ],
+        "time": 2.1525211334228516
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "l"
+        ],
+        "time": 2.2726247310638428
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 2.4726297855377197
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 2.640432596206665
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.esc"
+        ],
+        "time": 4.944430589675903
+    }
+]

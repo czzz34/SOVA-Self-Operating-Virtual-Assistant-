@@ -1,0 +1,332 @@
+[
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            274,
+            78
+        ],
+        "time": 0.18895506858825684
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            273,
+            78
+        ],
+        "time": 0.1908276081085205
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            273,
+            79
+        ],
+        "time": 0.19893527030944824
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            272,
+            79
+        ],
+        "time": 0.20094037055969238
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            271,
+            80
+        ],
+        "time": 0.20532464981079102
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            270,
+            81
+        ],
+        "time": 0.21079778671264648
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            270,
+            82
+        ],
+        "time": 0.21479558944702148
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            269,
+            82
+        ],
+        "time": 0.21684765815734863
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            269,
+            83
+        ],
+        "time": 0.21874189376831055
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            269,
+            84
+        ],
+        "time": 0.2207624912261963
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            268,
+            84
+        ],
+        "time": 0.2227027416229248
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            268,
+            85
+        ],
+        "time": 0.22478508949279785
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            268,
+            86
+        ],
+        "time": 0.22677230834960938
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            268,
+            87
+        ],
+        "time": 0.2288045883178711
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            268,
+            88
+        ],
+        "time": 0.23078393936157227
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            268,
+            89
+        ],
+        "time": 0.23277020454406738
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            268,
+            90
+        ],
+        "time": 0.24074196815490723
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            269,
+            90
+        ],
+        "time": 0.3068373203277588
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 0.8681025505065918
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 0.9082760810852051
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "s"
+        ],
+        "time": 1.9881229400634766
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "s"
+        ],
+        "time": 2.115997791290283
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "e"
+        ],
+        "time": 2.2848145961761475
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "e"
+        ],
+        "time": 2.4362001419067383
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "t"
+        ],
+        "time": 2.6120617389678955
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "t"
+        ],
+        "time": 2.69206166267395
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "t"
+        ],
+        "time": 2.7802062034606934
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "t"
+        ],
+        "time": 2.8921947479248047
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "i"
+        ],
+        "time": 3.0121824741363525
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "i"
+        ],
+        "time": 3.1081769466400146
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "n"
+        ],
+        "time": 3.3160107135772705
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "n"
+        ],
+        "time": 3.444202184677124
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "g"
+        ],
+        "time": 3.547996759414673
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "g"
+        ],
+        "time": 3.684138059616089
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "s"
+        ],
+        "time": 3.6851110458374023
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "s"
+        ],
+        "time": 3.852141857147217
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 4.1721742153167725
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 4.291903018951416
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.esc"
+        ],
+        "time": 5.444123029708862
+    }
+]

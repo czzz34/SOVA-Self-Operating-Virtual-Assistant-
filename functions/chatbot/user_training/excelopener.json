@@ -1,0 +1,106 @@
+[
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 1.82989501953125
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 1.920301914215088
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "e"
+        ],
+        "time": 3.3552322387695312
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "e"
+        ],
+        "time": 3.4575891494750977
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "x"
+        ],
+        "time": 5.173680305480957
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "x"
+        ],
+        "time": 5.2662672996521
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "c"
+        ],
+        "time": 6.479145050048828
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "c"
+        ],
+        "time": 6.564888000488281
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 9.41927194595337
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 9.544800519943237
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 12.834616661071777
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 12.905325174331665
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.esc"
+        ],
+        "time": 16.95606803894043
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            139,
+            80
+        ],
+        "time": 0.023122549057006836
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 2.2324836254119873
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 2.392454147338867
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "p"
+        ],
+        "time": 2.896602153778076
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "p"
+        ],
+        "time": 3.0405778884887695
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "a"
+        ],
+        "time": 3.6485707759857178
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "a"
+        ],
+        "time": 3.81657075881958
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "i"
+        ],
+        "time": 3.9685218334198
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "i"
+        ],
+        "time": 4.096469163894653
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "n"
+        ],
+        "time": 4.400449514389038
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "n"
+        ],
+        "time": 4.520531892776489
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "t"
+        ],
+        "time": 4.776559829711914
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "t"
+        ],
+        "time": 4.90460205078125
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "3"
+        ],
+        "time": 5.5044920444488525
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "3"
+        ],
+        "time": 5.608564376831055
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "d"
+        ],
+        "time": 6.000575065612793
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "d"
+        ],
+        "time": 6.128481388092041
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 6.8484930992126465
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 6.984257459640503
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.esc"
+        ],
+        "time": 7.944263935089111
+    }
+]

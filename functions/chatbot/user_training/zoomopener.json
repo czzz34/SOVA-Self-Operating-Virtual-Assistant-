@@ -1,0 +1,106 @@
+[
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 1.396665096282959
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 1.5086584091186523
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "z"
+        ],
+        "time": 1.9967010021209717
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "z"
+        ],
+        "time": 2.1089136600494385
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "o"
+        ],
+        "time": 2.24471378326416
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "o"
+        ],
+        "time": 2.332669973373413
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "o"
+        ],
+        "time": 2.4367148876190186
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "o"
+        ],
+        "time": 2.5488905906677246
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "m"
+        ],
+        "time": 2.7172117233276367
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "m"
+        ],
+        "time": 2.8368542194366455
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 3.7968263626098633
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 3.940657377243042
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.esc"
+        ],
+        "time": 5.180858373641968
+    }
+]

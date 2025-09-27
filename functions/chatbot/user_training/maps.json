@@ -1,0 +1,2982 @@
+[
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            499,
+            336
+        ],
+        "time": 0.566840648651123
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            496,
+            343
+        ],
+        "time": 0.5745673179626465
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            494,
+            349
+        ],
+        "time": 0.5820531845092773
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            489,
+            358
+        ],
+        "time": 0.5884573459625244
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            487,
+            367
+        ],
+        "time": 0.5959231853485107
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            482,
+            379
+        ],
+        "time": 0.6033585071563721
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            476,
+            393
+        ],
+        "time": 0.6103582382202148
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            470,
+            406
+        ],
+        "time": 0.6176018714904785
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            465,
+            420
+        ],
+        "time": 0.6245977878570557
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            456,
+            436
+        ],
+        "time": 0.6316840648651123
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            447,
+            452
+        ],
+        "time": 0.6397523880004883
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            439,
+            466
+        ],
+        "time": 0.6470592021942139
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            430,
+            484
+        ],
+        "time": 0.6538946628570557
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            423,
+            498
+        ],
+        "time": 0.6610286235809326
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            414,
+            511
+        ],
+        "time": 0.6689989566802979
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            407,
+            524
+        ],
+        "time": 0.676264762878418
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            399,
+            538
+        ],
+        "time": 0.6830942630767822
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            394,
+            552
+        ],
+        "time": 0.6910953521728516
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            385,
+            563
+        ],
+        "time": 0.6982829570770264
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            381,
+            575
+        ],
+        "time": 0.7051682472229004
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            375,
+            584
+        ],
+        "time": 0.7121658325195312
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            371,
+            592
+        ],
+        "time": 0.7202417850494385
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            366,
+            599
+        ],
+        "time": 0.7275652885437012
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            361,
+            605
+        ],
+        "time": 0.7340691089630127
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            358,
+            611
+        ],
+        "time": 0.7422466278076172
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            356,
+            617
+        ],
+        "time": 0.7491042613983154
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            352,
+            622
+        ],
+        "time": 0.7562007904052734
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            349,
+            628
+        ],
+        "time": 0.764035701751709
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            346,
+            636
+        ],
+        "time": 0.7714934349060059
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            342,
+            644
+        ],
+        "time": 0.7782721519470215
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            337,
+            655
+        ],
+        "time": 0.7852723598480225
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            333,
+            667
+        ],
+        "time": 0.7934274673461914
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            330,
+            681
+        ],
+        "time": 0.8007216453552246
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            325,
+            696
+        ],
+        "time": 0.8072826862335205
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            321,
+            711
+        ],
+        "time": 0.8153088092803955
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            316,
+            725
+        ],
+        "time": 0.8220524787902832
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            314,
+            739
+        ],
+        "time": 0.8300435543060303
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            310,
+            752
+        ],
+        "time": 0.8373637199401855
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            306,
+            766
+        ],
+        "time": 0.844738245010376
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            303,
+            778
+        ],
+        "time": 0.851752758026123
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            300,
+            788
+        ],
+        "time": 0.8584249019622803
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            296,
+            799
+        ],
+        "time": 0.8657641410827637
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            295,
+            806
+        ],
+        "time": 0.8739149570465088
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            294,
+            813
+        ],
+        "time": 0.8812358379364014
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            292,
+            818
+        ],
+        "time": 0.8878695964813232
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            291,
+            824
+        ],
+        "time": 0.8959531784057617
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            290,
+            828
+        ],
+        "time": 0.9034512042999268
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            286,
+            834
+        ],
+        "time": 0.9106521606445312
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            285,
+            837
+        ],
+        "time": 0.9180679321289062
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            285,
+            841
+        ],
+        "time": 0.925614595413208
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            284,
+            844
+        ],
+        "time": 0.9326052665710449
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            283,
+            846
+        ],
+        "time": 0.9397292137145996
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            283,
+            847
+        ],
+        "time": 0.9478189945220947
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            283,
+            848
+        ],
+        "time": 0.9551129341125488
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            281,
+            850
+        ],
+        "time": 1.2328975200653076
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            278,
+            854
+        ],
+        "time": 1.2398076057434082
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            276,
+            859
+        ],
+        "time": 1.2474865913391113
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            271,
+            863
+        ],
+        "time": 1.2538902759552002
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            267,
+            868
+        ],
+        "time": 1.2618916034698486
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            263,
+            873
+        ],
+        "time": 1.26924467086792
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            259,
+            878
+        ],
+        "time": 1.2759225368499756
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            254,
+            883
+        ],
+        "time": 1.2839419841766357
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            250,
+            887
+        ],
+        "time": 1.291205644607544
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            247,
+            890
+        ],
+        "time": 1.298513650894165
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            244,
+            893
+        ],
+        "time": 1.3058292865753174
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            238,
+            896
+        ],
+        "time": 1.3128316402435303
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            236,
+            898
+        ],
+        "time": 1.32059645652771
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            234,
+            900
+        ],
+        "time": 1.3276035785675049
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            232,
+            903
+        ],
+        "time": 1.335211992263794
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            229,
+            904
+        ],
+        "time": 1.3422272205352783
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            227,
+            905
+        ],
+        "time": 1.349226474761963
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            226,
+            905
+        ],
+        "time": 1.356985092163086
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            226,
+            905
+        ],
+        "time": 1.364307165145874
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            225,
+            905
+        ],
+        "time": 1.3713691234588623
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            224,
+            905
+        ],
+        "time": 1.386112928390503
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            224,
+            906
+        ],
+        "time": 1.4010009765625
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            224,
+            906
+        ],
+        "time": 1.4156529903411865
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            222,
+            906
+        ],
+        "time": 1.422313928604126
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            222,
+            907
+        ],
+        "time": 1.4303054809570312
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            220,
+            907
+        ],
+        "time": 1.437608003616333
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            220,
+            908
+        ],
+        "time": 1.4449377059936523
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            218,
+            909
+        ],
+        "time": 1.4522511959075928
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            217,
+            911
+        ],
+        "time": 1.459578514099121
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            216,
+            912
+        ],
+        "time": 1.46690034866333
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            214,
+            912
+        ],
+        "time": 1.474280834197998
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            212,
+            913
+        ],
+        "time": 1.48191499710083
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            212,
+            914
+        ],
+        "time": 1.4895033836364746
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            211,
+            915
+        ],
+        "time": 1.4963021278381348
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            210,
+            915
+        ],
+        "time": 1.5038213729858398
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            209,
+            915
+        ],
+        "time": 1.5115635395050049
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            209,
+            916
+        ],
+        "time": 1.5185737609863281
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            208,
+            917
+        ],
+        "time": 1.5403153896331787
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            206,
+            918
+        ],
+        "time": 1.577268362045288
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            206,
+            918
+        ],
+        "time": 1.6290271282196045
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            206,
+            919
+        ],
+        "time": 1.6361217498779297
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            205,
+            920
+        ],
+        "time": 1.6576855182647705
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            204,
+            921
+        ],
+        "time": 1.6648573875427246
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            202,
+            922
+        ],
+        "time": 1.6719989776611328
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            200,
+            925
+        ],
+        "time": 1.6802260875701904
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            194,
+            931
+        ],
+        "time": 1.6871774196624756
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            190,
+            935
+        ],
+        "time": 1.6944873332977295
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            182,
+            943
+        ],
+        "time": 1.701585054397583
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            176,
+            950
+        ],
+        "time": 1.7085371017456055
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            168,
+            960
+        ],
+        "time": 1.7155346870422363
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            160,
+            969
+        ],
+        "time": 1.7230679988861084
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            150,
+            977
+        ],
+        "time": 1.73038911819458
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            142,
+            986
+        ],
+        "time": 1.7377068996429443
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            136,
+            996
+        ],
+        "time": 1.7450520992279053
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            128,
+            1002
+        ],
+        "time": 1.7522869110107422
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            123,
+            1009
+        ],
+        "time": 1.7590441703796387
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            119,
+            1014
+        ],
+        "time": 1.7665293216705322
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            115,
+            1018
+        ],
+        "time": 1.7743232250213623
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            113,
+            1021
+        ],
+        "time": 1.7809221744537354
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            111,
+            1023
+        ],
+        "time": 1.7889201641082764
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            108,
+            1025
+        ],
+        "time": 1.7955436706542969
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            107,
+            1028
+        ],
+        "time": 1.803572416305542
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            105,
+            1028
+        ],
+        "time": 1.8108704090118408
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            105,
+            1029
+        ],
+        "time": 1.818394422531128
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            105,
+            1029
+        ],
+        "time": 1.82513427734375
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            104,
+            1030
+        ],
+        "time": 1.8329718112945557
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            103,
+            1031
+        ],
+        "time": 1.8476672172546387
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            102,
+            1031
+        ],
+        "time": 1.876840591430664
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            102,
+            1031
+        ],
+        "time": 1.883683681488037
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            102,
+            1032
+        ],
+        "time": 1.9144880771636963
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            101,
+            1032
+        ],
+        "time": 1.9276254177093506
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            100,
+            1033
+        ],
+        "time": 1.9354441165924072
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            99,
+            1035
+        ],
+        "time": 1.9430313110351562
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            98,
+            1037
+        ],
+        "time": 1.9500279426574707
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            97,
+            1038
+        ],
+        "time": 1.9569580554962158
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            95,
+            1039
+        ],
+        "time": 1.9645397663116455
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            93,
+            1041
+        ],
+        "time": 1.971954584121704
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            90,
+            1044
+        ],
+        "time": 1.9791431427001953
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            88,
+            1046
+        ],
+        "time": 1.9861490726470947
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            86,
+            1047
+        ],
+        "time": 1.993835687637329
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            85,
+            1047
+        ],
+        "time": 2.000545024871826
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            83,
+            1048
+        ],
+        "time": 2.008056402206421
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            82,
+            1048
+        ],
+        "time": 2.0158309936523438
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            81,
+            1049
+        ],
+        "time": 2.022526502609253
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            80,
+            1049
+        ],
+        "time": 2.0305593013763428
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            79,
+            1049
+        ],
+        "time": 2.0369832515716553
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            79,
+            1049
+        ],
+        "time": 2.0533227920532227
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            78,
+            1049
+        ],
+        "time": 2.0747897624969482
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            76,
+            1049
+        ],
+        "time": 2.1117193698883057
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            76,
+            1049
+        ],
+        "time": 2.1333398818969727
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            75,
+            1049
+        ],
+        "time": 2.1623528003692627
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            74,
+            1049
+        ],
+        "time": 2.199592351913452
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            74,
+            1049
+        ],
+        "time": 2.251288414001465
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            74,
+            1049
+        ],
+        "time": 2.2869138717651367
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            74,
+            1048
+        ],
+        "time": 2.3163418769836426
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            74,
+            1048
+        ],
+        "time": 2.441235303878784
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            73,
+            1048
+        ],
+        "time": 2.4781734943389893
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            72,
+            1048
+        ],
+        "time": 2.5069072246551514
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            71,
+            1048
+        ],
+        "time": 2.514585256576538
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            69,
+            1048
+        ],
+        "time": 2.5214931964874268
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            67,
+            1049
+        ],
+        "time": 2.5289926528930664
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            65,
+            1050
+        ],
+        "time": 2.536186456680298
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            62,
+            1051
+        ],
+        "time": 2.543604850769043
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            59,
+            1054
+        ],
+        "time": 2.550858974456787
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            56,
+            1055
+        ],
+        "time": 2.5574653148651123
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            54,
+            1056
+        ],
+        "time": 2.5653233528137207
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            51,
+            1056
+        ],
+        "time": 2.572864294052124
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            50,
+            1056
+        ],
+        "time": 2.579962730407715
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            48,
+            1057
+        ],
+        "time": 2.587566614151001
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            47,
+            1057
+        ],
+        "time": 2.594569683074951
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            47,
+            1058
+        ],
+        "time": 2.6017439365386963
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            46,
+            1058
+        ],
+        "time": 2.609079360961914
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            45,
+            1058
+        ],
+        "time": 2.6244091987609863
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            45,
+            1058
+        ],
+        "time": 2.6528923511505127
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            44,
+            1058
+        ],
+        "time": 2.6893997192382812
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            42,
+            1058
+        ],
+        "time": 2.733250141143799
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            42,
+            1058
+        ],
+        "time": 2.7471513748168945
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            42,
+            1058
+        ],
+        "time": 2.7691214084625244
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            41,
+            1058
+        ],
+        "time": 2.799208402633667
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            41,
+            1057
+        ],
+        "time": 2.8286871910095215
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            40,
+            1057
+        ],
+        "time": 2.835599422454834
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            40,
+            1057
+        ],
+        "time": 2.8724403381347656
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "position": [
+            40,
+            1057
+        ],
+        "button": "left",
+        "pressed": true,
+        "time": 2.887519121170044
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "position": [
+            40,
+            1057
+        ],
+        "button": "left",
+        "pressed": false,
+        "time": 2.959998846054077
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "m"
+        ],
+        "time": 4.190791845321655
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "m"
+        ],
+        "time": 4.319577217102051
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "a"
+        ],
+        "time": 4.712637424468994
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "a"
+        ],
+        "time": 4.8565826416015625
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "p"
+        ],
+        "time": 5.26664400100708
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "p"
+        ],
+        "time": 5.402719020843506
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            39,
+            1045
+        ],
+        "time": 7.350946426391602
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            38,
+            1029
+        ],
+        "time": 7.359188556671143
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            36,
+            1008
+        ],
+        "time": 7.365913391113281
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            35,
+            976
+        ],
+        "time": 7.373622417449951
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            35,
+            949
+        ],
+        "time": 7.38097071647644
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            35,
+            915
+        ],
+        "time": 7.388103485107422
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            35,
+            878
+        ],
+        "time": 7.3950958251953125
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            33,
+            840
+        ],
+        "time": 7.402957201004028
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            33,
+            802
+        ],
+        "time": 7.410235166549683
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            33,
+            775
+        ],
+        "time": 7.417261123657227
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            31,
+            747
+        ],
+        "time": 7.424261569976807
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            29,
+            728
+        ],
+        "time": 7.4322028160095215
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            29,
+            715
+        ],
+        "time": 7.439519882202148
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            28,
+            705
+        ],
+        "time": 7.446753263473511
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            28,
+            700
+        ],
+        "time": 7.453406572341919
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            28,
+            696
+        ],
+        "time": 7.461406946182251
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            28,
+            694
+        ],
+        "time": 7.46879243850708
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            28,
+            694
+        ],
+        "time": 7.475418329238892
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            28,
+            693
+        ],
+        "time": 7.505497455596924
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            27,
+            692
+        ],
+        "time": 7.571532964706421
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            27,
+            688
+        ],
+        "time": 7.578763723373413
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            26,
+            686
+        ],
+        "time": 7.587184429168701
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            25,
+            682
+        ],
+        "time": 7.593958616256714
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            24,
+            676
+        ],
+        "time": 7.601519584655762
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            23,
+            671
+        ],
+        "time": 7.6083984375
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            21,
+            662
+        ],
+        "time": 7.615588665008545
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            20,
+            651
+        ],
+        "time": 7.622011423110962
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            19,
+            640
+        ],
+        "time": 7.629843711853027
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            17,
+            627
+        ],
+        "time": 7.637223243713379
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            17,
+            615
+        ],
+        "time": 7.644219636917114
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            15,
+            602
+        ],
+        "time": 7.651220083236694
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            15,
+            588
+        ],
+        "time": 7.6591198444366455
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            15,
+            577
+        ],
+        "time": 7.666317939758301
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            15,
+            565
+        ],
+        "time": 7.673719644546509
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            15,
+            554
+        ],
+        "time": 7.681139945983887
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            15,
+            545
+        ],
+        "time": 7.688158273696899
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            14,
+            538
+        ],
+        "time": 7.695149898529053
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            14,
+            531
+        ],
+        "time": 7.703001022338867
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            14,
+            528
+        ],
+        "time": 7.7103211879730225
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            14,
+            523
+        ],
+        "time": 7.717663526535034
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            14,
+            519
+        ],
+        "time": 7.724987983703613
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            14,
+            515
+        ],
+        "time": 7.731574535369873
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            14,
+            512
+        ],
+        "time": 7.7395713329315186
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            14,
+            510
+        ],
+        "time": 7.74657130241394
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            14,
+            507
+        ],
+        "time": 7.75423264503479
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            14,
+            504
+        ],
+        "time": 7.761812925338745
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            14,
+            503
+        ],
+        "time": 7.768892526626587
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            15,
+            501
+        ],
+        "time": 7.775686740875244
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            15,
+            500
+        ],
+        "time": 7.78268837928772
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            15,
+            498
+        ],
+        "time": 7.79075813293457
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            16,
+            496
+        ],
+        "time": 7.79747462272644
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            16,
+            495
+        ],
+        "time": 7.805465459823608
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            17,
+            493
+        ],
+        "time": 7.81277871131897
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            17,
+            490
+        ],
+        "time": 7.819794416427612
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            18,
+            488
+        ],
+        "time": 7.827552318572998
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            19,
+            487
+        ],
+        "time": 7.8350510597229
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            19,
+            485
+        ],
+        "time": 7.8415422439575195
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            19,
+            484
+        ],
+        "time": 7.848542928695679
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            20,
+            483
+        ],
+        "time": 7.856719970703125
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            21,
+            480
+        ],
+        "time": 7.86404275894165
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            22,
+            479
+        ],
+        "time": 7.871119499206543
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            22,
+            479
+        ],
+        "time": 7.878119468688965
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            23,
+            478
+        ],
+        "time": 7.885995149612427
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            24,
+            477
+        ],
+        "time": 7.893321752548218
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            24,
+            477
+        ],
+        "time": 7.900171279907227
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            25,
+            476
+        ],
+        "time": 7.907168388366699
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            25,
+            475
+        ],
+        "time": 7.914719820022583
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            26,
+            474
+        ],
+        "time": 7.922605276107788
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            27,
+            472
+        ],
+        "time": 7.9299256801605225
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            28,
+            471
+        ],
+        "time": 7.937565803527832
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            29,
+            470
+        ],
+        "time": 7.945059776306152
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            29,
+            469
+        ],
+        "time": 7.952636241912842
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            30,
+            467
+        ],
+        "time": 7.95912504196167
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            30,
+            465
+        ],
+        "time": 7.967247247695923
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            31,
+            464
+        ],
+        "time": 7.975159406661987
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            32,
+            462
+        ],
+        "time": 7.981606483459473
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            32,
+            462
+        ],
+        "time": 7.988828659057617
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            32,
+            461
+        ],
+        "time": 7.996842384338379
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            33,
+            460
+        ],
+        "time": 8.003790616989136
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            34,
+            459
+        ],
+        "time": 8.00975489616394
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            34,
+            457
+        ],
+        "time": 8.01705265045166
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            34,
+            456
+        ],
+        "time": 8.025075912475586
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            35,
+            456
+        ],
+        "time": 8.032396793365479
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            37,
+            454
+        ],
+        "time": 8.03972840309143
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            37,
+            453
+        ],
+        "time": 8.047040462493896
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            38,
+            452
+        ],
+        "time": 8.053707361221313
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            40,
+            449
+        ],
+        "time": 8.06169843673706
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            41,
+            447
+        ],
+        "time": 8.069141387939453
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            43,
+            445
+        ],
+        "time": 8.076414585113525
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            45,
+            444
+        ],
+        "time": 8.08318567276001
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            47,
+            442
+        ],
+        "time": 8.090087175369263
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            49,
+            438
+        ],
+        "time": 8.098087072372437
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            51,
+            436
+        ],
+        "time": 8.105567693710327
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            52,
+            434
+        ],
+        "time": 8.112873792648315
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            54,
+            433
+        ],
+        "time": 8.120327472686768
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            57,
+            430
+        ],
+        "time": 8.12751054763794
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            58,
+            428
+        ],
+        "time": 8.134936094284058
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            60,
+            426
+        ],
+        "time": 8.141950368881226
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            61,
+            424
+        ],
+        "time": 8.149206638336182
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            63,
+            422
+        ],
+        "time": 8.15680742263794
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            66,
+            420
+        ],
+        "time": 8.163679599761963
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            67,
+            418
+        ],
+        "time": 8.171674251556396
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            68,
+            416
+        ],
+        "time": 8.179041862487793
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            70,
+            415
+        ],
+        "time": 8.186095237731934
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            71,
+            413
+        ],
+        "time": 8.192750453948975
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            73,
+            411
+        ],
+        "time": 8.200777530670166
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            74,
+            410
+        ],
+        "time": 8.2080237865448
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            76,
+            408
+        ],
+        "time": 8.215427160263062
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            77,
+            407
+        ],
+        "time": 8.222925662994385
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            79,
+            404
+        ],
+        "time": 8.230112075805664
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            80,
+            403
+        ],
+        "time": 8.237144708633423
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            81,
+            401
+        ],
+        "time": 8.244674444198608
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            84,
+            400
+        ],
+        "time": 8.251972675323486
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            86,
+            398
+        ],
+        "time": 8.258594512939453
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            87,
+            396
+        ],
+        "time": 8.26659369468689
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            90,
+            393
+        ],
+        "time": 8.27394986152649
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            92,
+            392
+        ],
+        "time": 8.280567407608032
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            94,
+            390
+        ],
+        "time": 8.288544416427612
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            96,
+            390
+        ],
+        "time": 8.295986413955688
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            97,
+            389
+        ],
+        "time": 8.303469181060791
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            98,
+            388
+        ],
+        "time": 8.3106689453125
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            101,
+            387
+        ],
+        "time": 8.316759824752808
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            103,
+            385
+        ],
+        "time": 8.325308561325073
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            103,
+            385
+        ],
+        "time": 8.333143949508667
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            104,
+            385
+        ],
+        "time": 8.339202404022217
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            106,
+            384
+        ],
+        "time": 8.34720778465271
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            106,
+            384
+        ],
+        "time": 8.35465693473816
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            109,
+            383
+        ],
+        "time": 8.361831903457642
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            110,
+            383
+        ],
+        "time": 8.369321346282959
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            112,
+            382
+        ],
+        "time": 8.376704216003418
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            114,
+            382
+        ],
+        "time": 8.383932828903198
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            118,
+            381
+        ],
+        "time": 8.390731811523438
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            118,
+            381
+        ],
+        "time": 8.398204326629639
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            120,
+            381
+        ],
+        "time": 8.405506372451782
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            121,
+            381
+        ],
+        "time": 8.41322922706604
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            121,
+            381
+        ],
+        "time": 8.42023491859436
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            122,
+            380
+        ],
+        "time": 8.43441128730774
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            123,
+            380
+        ],
+        "time": 8.44224739074707
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            123,
+            380
+        ],
+        "time": 8.471321105957031
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            123,
+            379
+        ],
+        "time": 8.500859022140503
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            125,
+            379
+        ],
+        "time": 8.508033752441406
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            126,
+            379
+        ],
+        "time": 8.543854713439941
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            126,
+            379
+        ],
+        "time": 8.587676286697388
+    },
+    {
+        "type": "mouse",
+        "event": "move",
+        "position": [
+            126,
+            379
+        ],
+        "time": 8.61059045791626
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "position": [
+            126,
+            379
+        ],
+        "button": "left",
+        "pressed": true,
+        "time": 8.6393461227417
+    },
+    {
+        "type": "mouse",
+        "event": "click",
+        "position": [
+            126,
+            379
+        ],
+        "button": "left",
+        "pressed": false,
+        "time": 8.750415325164795
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.esc"
+        ],
+        "time": 10.61716914176941
+    }
+]

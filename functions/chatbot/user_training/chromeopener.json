@@ -1,0 +1,74 @@
+[
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 1.6471514701843262
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 1.7826128005981445
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "c"
+        ],
+        "time": 2.5587265491485596
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "c"
+        ],
+        "time": 2.710385322570801
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "h"
+        ],
+        "time": 2.9595556259155273
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "h"
+        ],
+        "time": 3.0861330032348633
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 3.908386468887329
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 4.0547144412994385
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.esc"
+        ],
+        "time": 6.254159927368164
+    }
+]

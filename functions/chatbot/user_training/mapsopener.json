@@ -1,0 +1,106 @@
+[
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 1.290276288986206
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.cmd"
+        ],
+        "time": 1.4582748413085938
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "m"
+        ],
+        "time": 1.818190574645996
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "m"
+        ],
+        "time": 1.9463212490081787
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "a"
+        ],
+        "time": 2.1785550117492676
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "a"
+        ],
+        "time": 2.3384628295898438
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "p"
+        ],
+        "time": 2.562448263168335
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "p"
+        ],
+        "time": 2.68241548538208
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "s"
+        ],
+        "time": 2.7384185791015625
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "s"
+        ],
+        "time": 2.8824639320373535
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 3.7703661918640137
+    },
+    {
+        "type": "keyboard",
+        "event": "release",
+        "keys": [
+            "Key.enter"
+        ],
+        "time": 3.9222230911254883
+    },
+    {
+        "type": "keyboard",
+        "event": "press",
+        "keys": [
+            "Key.esc"
+        ],
+        "time": 5.082194805145264
+    }
+]
