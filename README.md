@@ -81,15 +81,3 @@ SOVA/
 
 * You can switch the AI model in Ollama; `Gemma2:9b` is only a recommendation.
 * Functions like music playback require an internet connection.
-
-
-
-## 📄 License
-
-MIT License – free to use and modify.
-
----
-
-I can also make a **version with badges, GIFs/screenshots, and quick-start instructions** that looks very polished on GitHub’s main page.
-
-Do you want me to do that next?
